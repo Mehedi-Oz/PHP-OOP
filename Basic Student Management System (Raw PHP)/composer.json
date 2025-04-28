@@ -1,0 +1,14 @@
+{
+  "name": "basic-student-management-system/basic-student-management-system",
+  "type": "project",
+  "description": "A simple student management system using raw php",
+  "license": "",
+  "keywords": [],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
